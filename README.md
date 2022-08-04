@@ -6,7 +6,10 @@
 
 I come from China. Tianjin University of Technology 在读大二学生。
 
-![Minori-ty's github stats](https://github-readme-stats.vercel.app/api?username=HardenSG&show_icons=true&theme=vue)
+<a href="https://github.com/HardenSG">
+    <img align="left" height="170" alt="My GitHub stats" src="https://github-readme-stats-steel-omega.vercel.app/api?username=HardenSG&show_icons=true&include_all_commits=true&count_private=true&cache_seconds=1800&icon_color=2d77dc&title_color=2d77dc&text_color=ffffff&bg_color=0d1117" />
+</a>
+
 
 [![](https://activity-graph.herokuapp.com/graph?username=HardenSG&theme=dracula)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
@@ -15,7 +18,7 @@ I come from China. Tianjin University of Technology 在读大二学生。
 <a href="https://v3.cn.vuejs.org"><code><img height="20" src="./images/vue.png"></code></a>
 <a href="https://www.tslang.cn/index.html"><code><img height="20" src="./images/typescript.png"></code></a>
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=HardenSG)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=HardenSG&layout=compact)
 
 ### **你可以这样找到我：**
 

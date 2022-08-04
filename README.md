@@ -2,7 +2,7 @@
 
 ## SG
 
-<img align="right" alt="GIF" src="https://github.com/Minori-ty/Minori-ty/blob/main/images/code.gif" width="430" height="100%" />
+<img align="right" alt="GIF" src="https://github.com/Minori-ty/Minori-ty/blob/main/images/code.gif" width="330" height="100%" />
 
 I come from China. Tianjin University of Technology 在读大二学生。
 

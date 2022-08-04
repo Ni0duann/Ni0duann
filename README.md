@@ -2,6 +2,8 @@
 
 ## SG
 
+<img align="right" alt="GIF" src="https://github.com/Minori-ty/Minori-ty/blob/main/images/code.gif" width="430" height="100%" />
+
 I come from China. Tianjin University of Technology 在读大二学生。
 
 ![Minori-ty's github stats](https://github-readme-stats.vercel.app/api?username=HardenSG&show_icons=true&theme=vue)

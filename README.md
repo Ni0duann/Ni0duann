@@ -1,22 +1,15 @@
-
-
-## SG
-
-<img align="right" alt="GIF" src="https://github.com/Minori-ty/Minori-ty/blob/main/images/code.gif" width="330" height="100%" />
+<div align="center"><a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=30&pause=1000&color=33F7F5&center=true&vCenter=true&width=435&lines=Hi+there+%F0%9F%91%8B+I+am+SG+;Welcome+to+my+Github" alt="Typing SVG" /></a></div>
 
 I COME FROM CHINA. TIANJIN UNIVERSITY OF TECHNOLOGY 在读大二学生。
 
-<a href="https://github.com/HardenSG">
-    <img align="left" height="170" alt="My GitHub stats" src="https://github-readme-stats-steel-omega.vercel.app/api?username=HardenSG&show_icons=true&include_all_commits=true&count_private=true&cache_seconds=1800&icon_color=2d77dc&title_color=2d77dc&text_color=ffffff&bg_color=0d1117" />
-</a>
+<p>
+    <a href="https://github.com/DenverCoder1/github-readme-streak-stats">
+      <img title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="AirboZH's streak" src="https://streak-stats.demolab.com/?user=HardenSG&theme=monokai-metallian&hide_border=true"/>
+    </a>
+</p>
 
+### **YOU CAN FIND ME BY THESE WAYS**
 
-[![](https://activity-graph.herokuapp.com/graph?username=HardenSG&theme=dracula)](https://github.com/ashutosh00710/github-readme-activity-graph)
+QQ: 2767525216
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=HardenSG&layout=compact)
-
-### **你可以这样找到我：**
-
-QQ: 2767525216；
-
-email: 2767525216@qq.com;
+EMAIL: 2767525216@qq.com

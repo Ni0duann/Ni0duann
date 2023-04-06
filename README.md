@@ -4,7 +4,7 @@ I COME FROM CHINA. TIANJIN UNIVERSITY OF TECHNOLOGY 在读大二学生。
 
 <p>
     <a href="https://github.com/DenverCoder1/github-readme-streak-stats">
-      <img title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="AirboZH's streak" src="https://streak-stats.demolab.com/?user=HardenSG&theme=monokai-metallian&hide_border=true"/>
+      <img title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="HardenSG's streak" src="https://streak-stats.demolab.com/?user=HardenSG&theme=monokai-metallian&hide_border=true"/>
     </a>
 </p>
 

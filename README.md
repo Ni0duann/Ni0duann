@@ -7,6 +7,7 @@
 <p align="center">
     <a href="https://github.com/DenverCoder1/github-readme-streak-stats">
       <img title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="HardenSG's streak" src="https://streak-stats.demolab.com/?user=HardenSG&theme=monokai-metallian&hide_border=true"/>
+      <img align='center' src='https://github-readme-stats.vercel.app/api?username=HardenSG&theme=radical&count_private=true&show_icons=true)'>
     </a>
 </p>
 

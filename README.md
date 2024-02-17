@@ -1,7 +1,16 @@
 <div align="center"><a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=30&pause=1000&color=33F7F5&center=true&vCenter=true&width=435&lines=Hi+there+%F0%9F%91%8B+I+am+SG+;Welcome+to+my+Github" alt="Typing SVG" /></a></div>
 
 <p align="center">
-  I COME FROM CHINA. TIANJIN UNIVERSITY OF TECHNOLOGY 在读大二学生。
+  I COME FROM CHINA. TIANJIN UNIVERSITY OF TECHNOLOGY 软件在读大三学生。
+</p>
+<p align="center">
+  22岁自己走在故宫的亭台楼榭，虽然天津到北京的距离很近，但我用了22年才到了这里......
+
+  我享受孤独，我喜欢自己一个人行走在车水马龙的街头.
+</p>
+
+<p align="center">
+  嗯，我不会结婚的。
 </p>
 
 <p align="center">

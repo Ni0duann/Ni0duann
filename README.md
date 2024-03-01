@@ -3,17 +3,6 @@
 <p align="center">
   I COME FROM CHINA. TIANJIN UNIVERSITY OF TECHNOLOGY 软件在读大三学生。
 </p>
-<p align="center">
-  22岁自己走在故宫的亭台楼榭，虽然天津到北京的距离很近，但我用了22年才到了这里......
-</p>
-
-<p align="center">
-  我享受孤独，我喜欢自己一个人行走在车水马龙的街头.
-</p>
-
-<p align="center">
-  嗯，我不会结婚的。
-</p>
 
 <p align="center">
     <a href="https://github.com/DenverCoder1/github-readme-streak-stats">

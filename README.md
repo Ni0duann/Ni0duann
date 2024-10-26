@@ -1,9 +1,14 @@
 ## Hi there 👋
 
-
-**Ni0duann/Ni0duann** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
 前端工程师，2026 年毕业生，目前就读于广东海洋大学数学与计算机学院。对前端前沿技术感兴趣,正准备参与开源。
+
+- 🔭 主要使用 React、TypeScript、antd 相关技术进行日常开发工作.
+- 🌱 正在学习 自己维护一个开源项目。
+- 👯 喜欢 探索 Github 上有趣项目。
+- 💬 希望能学习更多前端前沿技术和项目.
+
+<--
+**Ni0duann/Ni0duann** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
@@ -13,5 +18,6 @@
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
+- -->
 
 

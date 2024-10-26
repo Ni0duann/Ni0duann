@@ -1,9 +1,9 @@
 ## Hi there 👋
 
-<!--
+
 **Ni0duann/Ni0duann** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+前端工程师，2026 年毕业生，目前就读于广东海洋大学数学与计算机学院。对前端前沿技术感兴趣,正准备参与开源。
 
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
@@ -13,4 +13,5 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
--->
+
+

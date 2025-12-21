@@ -1,7 +1,7 @@
 <div align="center"><a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&pause=1000&color=33F7F5&center=true&vCenter=true&width=435&lines=Hi+there+%F0%9F%91%8B+I+am+Ni0duann+;Welcome+to+my+Github" alt="Typing SVG" /></a></div>
 
 <p align="center">
-  I COME FROM CHINA. GDOU UNIVERSITY OF TECHNOLOGY 计科在读大三学生，目前在小红书担任前端开发实习生。
+  I COME FROM CHINA. GDOU UNIVERSITY OF TECHNOLOGY 计科在读大四学生，目前在小红书担任前端开发实习生。
 </p>
 
 <p align="center">
